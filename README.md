@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋, I'm a Abdel 🫖
 
-<!--
-**boredabdel/boredabdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+People on social media know me as Abdel or boredabdel. My real full name is Abdellfetah SGHIOUAR. If you are not an Arab speaker, don't worry. Just call me Abdel 😄
+Here, you can find some details about me and my work and some OSS work I do.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am:
+- 🇲🇦 Made In Morocco
+- 🇸🇪 Live in Sweden
+- 👨🏽‍💻 Work at @Google Cloud
+- 🎖️ [Cloud Native Compute Foundation (CNCF) Ambassador](https://www.cncf.io/people/ambassadors/?p=abdel-sghiouar)
+- 🤓 Geek
+- 🏃 Runner
+- 🍲 Home Cook
+- ✍️ [Blogger](https://boredabdel.medium.com)
+- 🎙️ [Kubernetes Podcast](https://www.kubernetespodcast.com/) Co-host
+- 🔊 Public Speaker
